@@ -100,7 +100,7 @@ header nav a:hover{
 }
 .botao:hover{
     background-color: white;
-    color:black;
+    color:rgb(0, 0, 0);
     font-weight: bold;
     
     
@@ -149,3 +149,11 @@ footer{
     text-align: center;
     padding: 10px;
 }
+#links-fixos{
+    /*você pode alterar largura usando width*/
+    padding:5px;
+    background:;
+    position:fixed;
+    bottom:30px;/*altura da classe*/
+    right: 30px;
+  }
