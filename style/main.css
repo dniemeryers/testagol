@@ -155,6 +155,6 @@ footer{
     border-radius: 50%;
     
     position:fixed;
-    bottom:30px;/*altura da classe*/
-    right: 30px;
+    bottom:15px;/*altura da classe*/
+    right: 15px;
   }
