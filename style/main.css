@@ -56,9 +56,7 @@ header nav a:hover{
 .filme-principal{
     font-size: 16px;
     background:  url('../img/download3.jpg');
-    background-attachment: fixed;
-    display: inline-block;
-
+    
     height: 700px; 
     background-size: cover;
 
