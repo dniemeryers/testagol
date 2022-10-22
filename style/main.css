@@ -17,10 +17,10 @@ body{
     }
 
 
-
 header .container{
     display: flex;
     flex-direction: row;
+    
     align-items: center;
     justify-content: space-between;
     background-color: green;
@@ -153,7 +153,7 @@ footer{
     /*você pode alterar largura usando width*/
     padding:5px;
     border-radius: 50%;
-    background:rgba(0, 0, 0, 0.459);
+    
     position:fixed;
     bottom:30px;/*altura da classe*/
     right: 30px;
