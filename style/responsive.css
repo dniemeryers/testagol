@@ -1,0 +1,59 @@
+@media screen and (min-width: 700px) {
+
+    
+    
+
+    .botao{
+        margin-top: 5px;
+        width: 200px;
+    }
+    .item{
+        width: 300px;
+        height: 100px;
+       margin: auto;
+    }
+}
+@media screen and (max-width: 800px) {
+
+   .produtos{
+    align-items: center;
+    display: flex;
+    flex-direction: column;    
+    }
+    .imgprd{
+        padding-bottom: 50px;
+    }
+
+    .img{
+        width: 300px;
+        height: 300px;
+        
+    }
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .botao{
+        margin-top: 5px;
+        padding: 10px;
+        width: 150px;
+        
+    }
+    .item{
+        width: 300px;
+        height: 150px;
+       margin: auto;
+    }
+  
+}
+@media screen and (min-width: 1000px) {
+    .descricao{
+        width: 50%;
+    }
+    .item{
+        width: 500px;
+        height: 200px;
+       margin: auto;
+    }
+}
