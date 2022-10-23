@@ -23,7 +23,7 @@ header .container{
     
     align-items: center;
     justify-content: space-between;
-    background-color: green;
+    background-color: rgb(64, 145, 108);
     margin: 0px;
     padding-bottom: 5px;
 
@@ -158,3 +158,36 @@ footer{
     bottom:15px;/*altura da classe*/
     right: 15px;
   }
+  .catalogo{
+     background-color: rgb(216,243,220);   
+    display:flex;
+
+  }
+  h1{
+    padding-top: 10px;
+    text-align: center;
+  }
+  .janela > h2{
+      
+    text-align: center;
+    background-color: rgb(45,106,79);
+    border-radius: 5px;
+    color:white;
+       
+  }
+  a{
+    text-decoration: none;
+    color: white;
+  }
+  .janela{
+   
+    background-color: rgb(149,213,178);
+    width: 350px;
+    height: 200px;
+    color: black;
+    font-weight: bold;
+    margin: 5px;
+    border-radius: 10px;
+
+  }
+  
