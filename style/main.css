@@ -17,7 +17,7 @@ body{
     }
 
 
-header .container{
+header .container, header .logo1{
     display: flex;
     flex-direction: row;
     
@@ -50,6 +50,8 @@ header nav a:hover{
     font-weight: bold;
     
 }
+
+
 
 
 /*filme principal*/
