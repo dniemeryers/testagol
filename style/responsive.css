@@ -14,7 +14,7 @@
     }
 }
 @media screen and (max-width: 800px) {
-
+    
    .produtos{
     align-items: center;
     display: flex;
@@ -29,17 +29,21 @@
         height: 300px;
         
     }
+    
    
     header .container {
+       
+       
         display: flex;
         flex-direction: column;
         padding-top: 15px;
+        overflow-x: auto;
     }
     nav {
         margin-top: 5px;
         padding-top: 5px;
         font-size: 15px;
-       font-weight: bold;
+      
         width: 450px;
         text-align: center;
         padding: 10px;

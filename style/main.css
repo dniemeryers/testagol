@@ -193,4 +193,9 @@ footer{
     border-radius: 10px;
 
   }
+  p{
+    color:red;
+    font-weight: bold;
+    font-size: 10px;
+  }
   
