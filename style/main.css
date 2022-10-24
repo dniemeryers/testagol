@@ -192,6 +192,8 @@ footer{
     font-weight: bold;
     margin: 5px;
     border-radius: 10px;
+    display:flex;
+    overflow-y: auto;
 
   }
   p{
