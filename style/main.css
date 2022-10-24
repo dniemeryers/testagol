@@ -155,11 +155,12 @@ footer{
 #links-fixos{
     /*você pode alterar largura usando width*/
     padding:5px;
-    border-radius: 50%;
+    
     
     position:fixed;
     bottom:15px;/*altura da classe*/
-    right: 15px;
+    right: 30px;
+    
   }
   .catalogo{
      background-color: rgb(216,243,220);   
@@ -194,8 +195,9 @@ footer{
 
   }
   p{
+    text-align: center;
     color:red;
     font-weight: bold;
-    font-size: 10px;
+    font-size: 8px;
   }
   
