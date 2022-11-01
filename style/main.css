@@ -73,7 +73,7 @@ header nav a:hover{
 }
 
 .filme-principal .descricao{
-    margin-top: 5pxpx;
+    margin-top: 5px;
     margin-bottom: 20px;
 }
 
@@ -132,7 +132,8 @@ header nav a:hover{
 }
 
 .carrosel{
-    margin-top: 30px;
+    padding-top: 30px;
+    background-color: rgba(128, 128, 128, 0.342);
 }
 .produtos{
     display: flex;
