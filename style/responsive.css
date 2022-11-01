@@ -20,7 +20,7 @@
     .imgprd{
         
         margin:10px;
-        width: 230px;
+        width: 180px;
         height: 250px;
         padding-top: 5px;
         margin: 5px;
@@ -32,12 +32,13 @@
         height: 2000px;
         display:flex;
         flex-direction: column;
+        
 
     }
    
     .janela{
        
-        width: 240px;
+        width: 220px;
         height:260px;
         align-items: initial;
         
@@ -53,8 +54,8 @@
         
 
     .img{
-        width: 200px;
-        height: 200px;
+        width: 150px;
+        height: 150px;
         
     }
     .container{
