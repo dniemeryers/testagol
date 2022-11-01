@@ -49,13 +49,14 @@
         font-size: 12px;
         width: 450px;
         text-align: center;
-        padding: 10px;
+        padding: 10px ;
         border-radius: 10px;
     }
     .menu{
         background-color: rgba(0, 0, 0, 0.418);
         padding: 5px 8px;
         border-radius: 15px;
+        margin-right: 4%;
     }
     .bola{
         flex-direction:initial;
