@@ -157,9 +157,7 @@ footer{
 }
 #links-fixos{
     /*você pode alterar largura usando width*/
-    padding:5px;
-    
-    
+         
     position:fixed;
     bottom:15px;/*altura da classe*/
     right: 30px;
