@@ -40,7 +40,7 @@
        
         width: 220px;
         height:260px;
-        align-items: initial;
+       
         
     }
     .janela2{
@@ -60,6 +60,7 @@
     }
     .container{
         background: url('../img/istockphoto-1144482378-170667a.jpg');
+        padding:0px;
     }
     
    
@@ -73,16 +74,19 @@
     }
     nav {
         margin-top: 5px;
-        padding-top: 5px;
-        font-size: 8px;
-        width: 450px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: rgba(0, 0, 0, 0.418);
+        font-size: 10px;
+        width: 100%;
         text-align: center;
-        padding: 10px ;
-        border-radius: 10px;
+        padding-left: 0px;
+        
+        
     }
     .menu{
-        background-color: rgba(0, 0, 0, 0.418);
-        padding: 5px 8px;
+        
+       
         border-radius: 15px;
         margin-right: 4%;
     }
