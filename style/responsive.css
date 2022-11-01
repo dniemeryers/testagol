@@ -12,6 +12,7 @@
         height: 100px;
        margin: auto;
     }
+
 }
 @media screen and (max-width: 800px) {
     
@@ -29,6 +30,9 @@
         height: 300px;
         
     }
+    .container{
+        background: url('../img/istockphoto-1144482378-170667a.jpg');
+    }
     
    
     header .container {
@@ -43,11 +47,15 @@
         margin-top: 5px;
         padding-top: 5px;
         font-size: 15px;
-      
         width: 450px;
         text-align: center;
         padding: 10px;
         border-radius: 10px;
+    }
+    a{
+        background-color: rgba(0, 0, 0, 0.418);
+        padding: 5px 8px;
+        border-radius: 15px;
     }
     .bola{
         flex-direction:initial;

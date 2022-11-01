@@ -15,6 +15,9 @@ body{
     color: black;
 
     }
+.container{
+    background: url('../img/istockphoto-1144482378-170667a.jpg');
+}
 
 
 header .container, header .logo1{
@@ -23,7 +26,7 @@ header .container, header .logo1{
     
     align-items: center;
     justify-content: space-between;
-    background-color: rgb(64, 145, 108);
+    
     margin: 0px;
     padding-bottom: 5px;
 
@@ -58,7 +61,7 @@ header nav a:hover{
 
 .filme-principal{
     font-size: 16px;
-    background:  url('../img/download3.jpg');
+    background-color: rgba(128, 128, 128, 0.342);
     
     height: 700px; 
     background-size: cover;
@@ -193,7 +196,7 @@ footer{
     margin: 5px;
     border-radius: 10px;
     display:flex;
-    overflow-y: auto;
+    overflow-y:scroll;
 
   }
   p{
