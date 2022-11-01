@@ -31,22 +31,23 @@
     .filme-principal{
         height: 2000px;
         display:flex;
+        flex-direction: column;
 
     }
    
     .janela{
-        
+       
         width: 240px;
         height:260px;
         align-items: initial;
         
     }
     .janela2{
+       
         margin:5px;
     }
    .janela3{
-    display:flex;
-    flex-direction: column;
+    
    }
     
         
