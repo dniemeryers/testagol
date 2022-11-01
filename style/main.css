@@ -11,6 +11,7 @@
 
 body{
     background: white;
+    background-color: rgba(211,211,211);
     font-family: 'Arial', Times, serif;
     color: black;
 
@@ -61,9 +62,10 @@ header nav a:hover{
 
 .filme-principal{
     font-size: 16px;
-    background-color: rgba(128, 128, 128, 0.342);
-    
-    height: 700px; 
+    background-color: rgba(211,211,211);
+    display:flex;
+   
+    height: 850px; 
    
 
     
@@ -128,7 +130,7 @@ header nav a:hover{
 
 .carrosel{
     padding-top: 30px;
-    background-color: rgba(128, 128, 128, 0.342);
+    background-color: rgba(211,211,211);
 }
 .produtos{
     display: flex;
@@ -168,35 +170,59 @@ footer{
     padding-top: 10px;
     text-align: center;
   }
-  .janela > h2{
       
-    text-align: center;
-    background-color: rgb(45,106,79);
-    border-radius: 5px;
-    color:white;
-       
-  }
+  
   a{
     text-decoration: none;
     color: white;
   }
+
+  
   .janela{
    
-    background-color: rgb(149,213,178);
-    width: 350px;
-    height: 200px;
+    
+    width: 650px;
+    height: 400px;
+    padding-top: 40px;
     color: black;
     font-weight: bold;
     margin: 5px;
     border-radius: 10px;
-    display:flex;
-    overflow-y:scroll;
+    display: flex;   
+    
 
+  }
+ 
+  .imgprd{
+    display: flex;
+    display:inline ;
+    padding-left: 10px;
+    padding-right: 10px;
+
+  }
+  .titulo{
+    text-align: center;
+    padding-top: 30px;
+    background-color: rgba(211,211,211);
+    padding: 20px;
   }
   p{
     text-align: center;
-    color:red;
+    color:black;
     font-weight: bold;
-    font-size: 8px;
+    font-size: 20px;
+  }
+  .imgprd > .img{
+    
+    border-radius: 50%;
+   
+  }
+  .imgprd{
+    padding-top: 10px;
+    width: 500px;
+    margin: 5px;
+    height: 350px;
+    background-color: white;
+    border-radius: 10px;
   }
   
