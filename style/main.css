@@ -16,6 +16,9 @@ body{
     color: black;
 
     }
+    main{
+      height: 100%vh;
+    }
 .container{
     background: url('../img/istockphoto-1144482378-170667a.jpg');
 }
@@ -43,9 +46,23 @@ header .container, header .logo1{
     
 
 }
+#voltar{
+  margin-left: 15px;
+  display:flex;
+  display:inline;
+  
+  
+}
 h4{
     padding-right:5px;
     
+    
+}
+.voltar{
+  margin-left: 12px;
+  
+  color:blue;
+  
 }
 
 header .logo{
@@ -94,19 +111,6 @@ header nav a:hover{
 }
 
 
-.bwhats{
-    display: flex;
-    display:inline;
-    
-}
-.botao:hover{
-    background-color: white;
-    color:rgb(0, 0, 0);
-    font-weight: bold;
-    
-    
-}
-
 
 .container{
     margin-left: 20px;
@@ -130,15 +134,7 @@ header nav a:hover{
     padding-top: 30px;
     background-color: rgba(211,211,211);
 }
-.produtos{
-    display: flex;
-    flex-direction: row;
-    background-color: green;
-    justify-content: space-between;
-    padding-top: 30px;
-    padding-left: 30px;
-    padding-right: 30px;
-}
+
 p{
     color:white;
     font-weight: bold;
@@ -150,6 +146,10 @@ footer{
     color: white;
     text-align: center;
     padding: 10px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+      
 }
 #links-fixos{
     /*você pode alterar largura usando width*/
@@ -169,7 +169,8 @@ footer{
     padding-top: 10px;
     text-align: center;
   }
-      
+  
+  
   
   a{
     text-decoration: none;
