@@ -92,6 +92,25 @@
         border-radius: 15px;
         margin-right: 4%;
     }
+    .janela_menu{
+        display:flex;
+        width: 200px;
+        height: 100px;
+        background-color: aliceblue;
+        margin: 5px;
+    }
+    .masculino{
+        margin: 20px;
+        
+    }
+    .left , .rigth{
+        display:flex;
+        align-items: center;
+        
+    }
+    
+        
+    
     .bola{
         flex-direction:initial;
     }
