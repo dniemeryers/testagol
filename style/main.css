@@ -34,6 +34,19 @@ header .container, header .logo1{
 
 
 }
+.link{
+    text-decoration: none;
+    color:black;
+    margin: auto;
+    display: flex;
+
+    
+
+}
+h4{
+    padding-right:5px;
+    
+}
 
 header .logo{
     margin-left: 5px;

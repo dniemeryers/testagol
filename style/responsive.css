@@ -95,21 +95,28 @@
     .janela_menu{
         display:flex;
         width: 200px;
-        height: 50px;
+        height: 100px;
         background-color: aliceblue;
         margin: 5px;
-        border-radius: 20px;
+        
+        border-style: dashed;
+        border-width: 2px;
+        border-color: gray;
        
     }
     .janela_menu_chuteira{
         display:flex;
         width: 200px;
-        height: 50px;
+        height: 100px;
         background-color: aliceblue;
-        border-radius: 20px;
+       
+        border: 2px ;
         margin: 5px;
         padding-top: 45px;
         padding:7px;
+        border-style: dashed;
+        border-width: 2px;
+        border-color: gray;
     }
     .menu_moda{
         margin: 20px;
