@@ -80,22 +80,7 @@ header nav a:hover{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.botao{
-   background-color:gray ;
-   border: none;
-   color: white;
-   border-radius: 10px;
-   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.637);
 
-   padding: 15px 30px;
-   margin-right: 15px;
-   font-size: 15px;
-   
-
-   cursor: pointer;
-   transition: .3s ease all;
-
-}
 .bwhats{
     display: flex;
     display:inline;

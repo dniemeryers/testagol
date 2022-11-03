@@ -96,12 +96,28 @@
         flex-direction:initial;
     }
 
-    .botao{
-        margin-top: 5px;
-        padding: 10px;
-        width: 150px;
-        
-    }
+  #inf{
+    background-color: rgba(211,211,211);
+    padding: 10px 10px 15px 10px ;
+    border-radius: 8px 8px 0px 0px;
+    color:black;
+    font-weight: bold;
+    
+  }
+  #masc{
+    background-color: rgba(211,211,211);
+    padding: 10px 10px 15px 10px ;
+    border-radius: 8px 8px 0px 0px;
+    color:black;
+    font-weight: bold;
+  }
+  #fem{
+    background-color: rgba(211,211,211);
+    padding: 10px 10px 15px 10px ;
+    border-radius: 8px 8px 0px 0px;
+    color:black;
+    font-weight: bold;
+  }
     .item{
         width: 300px;
         height: 150px;
