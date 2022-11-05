@@ -22,14 +22,13 @@
         margin: auto;
         width: 180px;
         height: 250px;
-        padding-top: 5px;
-        margin: 5px;
+       margin: 5px;
         background-color: white;
         border-radius: 10px;
 
     }
     .filme-principal{
-        
+        margin: auto;
         height: 1200px;
         width: 350px;
         display:flex;
