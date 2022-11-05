@@ -28,11 +28,12 @@
 
     }
     .filme-principal{
+        
         height: 1200px;
-        width: 250px;
+        width: 400px;
         display:flex;
         flex-direction: column;
-        align-items: center;
+        margin: auto;
         
 
     }
@@ -41,14 +42,17 @@
        
         width: 220px;
         height:260px;
+        margin: auto;
        
         
     }
     .janela2{
        
-        margin:5px;
+        margin:auto;
     }
    .janela3{
+    margin: auto;
+   
     
    }
     
@@ -131,7 +135,7 @@
         margin: 20px;
         height: 400px;
         margin-bottom: 10px;
-        margin-bottom: 100px;
+        margin-bottom: 2px;
        
         
         
