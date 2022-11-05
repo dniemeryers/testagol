@@ -16,6 +16,10 @@
 }
 @media screen and (max-width: 800px) {
    
+    main{
+        margin:auto;
+    }
+    
     .imgprd{
         
         margin:10px;
@@ -42,7 +46,7 @@
        
         width: 220px;
         height:260px;
-       margin:auto;
+        
         
     }
     .janela2{
