@@ -18,6 +18,7 @@ body{
     }
     main{
       height: 100%vh;
+      margin-bottom: 10px;
     }
 .container{
     background: url('../img/istockphoto-1144482378-170667a.jpg');
@@ -145,6 +146,7 @@ footer{
     background-color: black;
     color: white;
     text-align: center;
+    
     padding: 10px;
     width: 100%;
     bottom: 0;

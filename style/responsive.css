@@ -107,7 +107,8 @@
         width: 200px;
         height: 100px;
         background-color: aliceblue;
-        margin: 5px;
+        margin: auto;
+        margin-top: 10px;
         
         border-style: dashed;
         border-width: 2px;
@@ -119,9 +120,9 @@
         width: 200px;
         height: 100px;
         background-color: aliceblue;
-       
+        margin:auto;
         border: 2px ;
-        margin: 5px;
+        margin-top: 10px;
         padding-top: 45px;
         padding:7px;
         border-style: dashed;
@@ -131,6 +132,9 @@
     .menu_moda{
         margin: 20px;
         height: 400px;
+        margin-bottom: 10px;
+        margin-bottom: 100px;
+       
         
         
     }
@@ -144,12 +148,7 @@
         
     }
     
-    .left , .rigth{
-        display:flex;
-        align-items: center;
-        
-    }
-    
+ 
         
     
     .bola{
