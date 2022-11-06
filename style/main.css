@@ -47,6 +47,11 @@ header .container, header .logo1{
     
 
 }
+
+.item{
+  height: 300px;
+  width: 300px;
+}
 #voltar{
   margin-left: 15px;
   display:flex;
@@ -85,7 +90,6 @@ header nav a:hover{
     font-weight: bold;
     
 }
-
 
 
 
@@ -160,12 +164,13 @@ header nav a:hover{
 }
 
 .box-filme{
-    height: 100%;
-    width: 100%;
-    display: block;
+    height: 300px;
+    width: 300px;
+    
 }
 
 .carrosel{
+     
     padding-top: 30px;
     background-color: rgba(211,211,211);
 }
@@ -250,7 +255,7 @@ footer{
   }
   .imgprd > .img{
     
-    border-radius: 50%;
+    border-radius: 10px;
    
   }
   .imgprd{
