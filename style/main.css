@@ -227,11 +227,16 @@ footer{
     padding-top: 40px;
     color: black;
     font-weight: bold;
-    margin: 5px;
+    margin: 15px;
     border-radius: 10px;
     display: flex;   
     
 
+  }
+  .janela2{
+    display:flex;
+    flex-direction: column;
+    margin:10px;
   }
  
   .imgprd{
@@ -261,8 +266,8 @@ footer{
   .imgprd{
     padding-top: 10px;
     width: 500px;
-    margin: 5px;
-    height: 350px;
+    margin: 10px;
+    height: 450px;
     background-color: white;
     border-radius: 10px;
   }
