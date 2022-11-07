@@ -233,6 +233,14 @@ footer{
     
 
   }
+  .ref{
+    background-color: black;
+    color: white;
+    width: 40px;
+    margin: auto;
+    border-radius: 50px;
+    margin-top:3px;
+  }
   .janela2{
     display:flex;
     flex-direction: column;
